@@ -17,10 +17,10 @@ This four-course sequence provides graduate students with a rigorous, research-d
 
 | # | Course | Credits | Semester | Type |
 |---|--------|---------|----------|------|
-| 1 | [CS 6800: ML Security — Foundations](CS6800-syllabus.md) | 3 | Fall, Year 1 | Lecture + Programming |
-| 2 | [CS 6810: Adversarial ML — Attacks](CS6810-syllabus.md) | 3 | Spring, Year 1 | Lecture + Research |
-| 3 | [CS 6820: Defenses and Robustness in ML](CS6820-syllabus.md) | 3 | Fall, Year 2 | Lecture + Lab |
-| 4 | [CS 7800: Security of Large AI Systems](CS7800-syllabus.md) | 3 | Spring, Year 2 | Research Seminar |
+| 1 | [CS 6800: ML Security — Foundations](CS6800/README.md) | 3 | Fall, Year 1 | Lecture + Programming |
+| 2 | [CS 6810: Adversarial ML — Attacks](CS6810/README.md) | 3 | Spring, Year 1 | Lecture + Research |
+| 3 | [CS 6820: Defenses and Robustness in ML](CS6820/README.md) | 3 | Fall, Year 2 | Lecture + Lab |
+| 4 | [CS 7800: Security of Large AI Systems](CS7800/README.md) | 3 | Spring, Year 2 | Research Seminar |
 
 **Total: 12 credits over 2 years.**
 
